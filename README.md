@@ -1,3 +1,27 @@
+
+# subenum
+
+<p align="left">
+  <a href="https://github.com/alexbieber/subenum/tree/master/subenum/modules">
+    <img src="https://img.shields.io/badge/Call%20for%20Modules-OPEN-green?style=plastic"/>
+  </a>&nbsp;
+  <a href="https://www.twitter.com/alexbieber12341">
+      <img src="https://img.shields.io/badge/Twitter-@m8r0wn-blue?style=plastic&logo=twitter"/>
+  </a>&nbsp;
+  <a href="https://github.com/sponsors/alexbieber">
+      <img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/>
+  </a>
+</p>
+
+SubScraper is a subdomain enumeration tool that uses a variety of techniques to find potential subdomains of a given target. This is especially helpful during penetration testing or bug bounty hunting to uncover additional attack surfaces. Depending on the the CMD args used, SubScraper can perform DNS lookups and HTTP/S requests during the enumeration process to help prioritize targets and aid in potential next steps.
+
+
+
+
+
+
+
+
 # subenum
 This tool is a subdomain enumerator . Thanks for using!. ;)
 
