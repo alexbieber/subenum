@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Call%20for%20Modules-OPEN-green?style=plastic"/>
   </a>&nbsp;
   <a href="https://www.twitter.com/alexbieber12341">
-      <img src="https://img.shields.io/badge/Twitter-@m8r0wn-blue?style=plastic&logo=twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-@alexbieber12341-blue?style=plastic&logo=twitter"/>
   </a>&nbsp;
   <a href="https://github.com/sponsors/alexbieber">
       <img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/>
