@@ -13,7 +13,7 @@
   </a>
 </p>
 
-SubScraper is a subdomain enumeration tool that uses a variety of techniques to find potential subdomains of a given target. This is especially helpful during penetration testing or bug bounty hunting to uncover additional attack surfaces. Depending on the the CMD args used, SubScraper can perform DNS lookups and HTTP/S requests during the enumeration process to help prioritize targets and aid in potential next steps.
+Subenum is a subdomain enumeration tool that uses a variety of techniques to find potential subdomains of a given target. This is especially helpful during penetration testing or bug bounty hunting to uncover additional attack surfaces. Depending on the the CMD args used, SubScraper can perform DNS lookups and HTTP/S requests during the enumeration process to help prioritize targets and aid in potential next steps.
 
 
 
