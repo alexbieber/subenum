@@ -1,6 +1,10 @@
 
 # subenum
 
+
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
+</p>
 <p align="left">
   <a href="https://github.com/alexbieber/subenum/tree/master/subenum/modules">
     <img src="https://img.shields.io/badge/Call%20for%20Modules-OPEN-green?style=plastic"/>
@@ -56,5 +60,16 @@ To use this tool -
    '''
    python3 subdomenum.py xyz.com  (run the command In root permission)
    '''
+   
+   ##
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src="https://nichaz1.dream.press/wp-content/uploads/2020/12/term.gif"/>
+</p>
+ <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+   
    
    Enjoy ✔🔴😄
