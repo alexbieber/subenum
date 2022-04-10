@@ -48,18 +48,9 @@ $ python3 subdomenum.py example.com
   I will not be responsible for any misuse⚠️
   
 ## Usage
-  Clone it by 
-   ''' 
-   git clone https://github.com/alexbieber/subenum.git
+  
    '''
-   
-   Go to subenum Directory
-   '''
-   cd subenum
-   '''
-   & Run it by--->> 
-   '''
-   python3 subdomenum.py xyz.com  (run the command In root permission)
+   Run it in--->> Root permission! (Type sudo su in your terminal ! put your password and your'e ready to use)
    '''
    
    ##
