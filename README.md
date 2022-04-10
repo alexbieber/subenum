@@ -52,7 +52,7 @@ To use this tool -
    '''
    cd subenum
    '''
-   Run it
+   & Run it by--->> 
    '''
    python3 subdomenum.py xyz.com
    '''
