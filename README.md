@@ -44,16 +44,16 @@ To use this tool -
   
 ## Usage
   Clone it by 
-   '''bash 
+   ''' 
    git clone https://github.com/alexbieber/subenum.git
    '''
    
    Go to subenum Directory
-   '''bash
+   '''
    cd subenum
    '''
    Run it
-   '''bash
+   '''
    python3 subdomenum.py xyz.com
    '''
    
