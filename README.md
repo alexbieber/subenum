@@ -1,5 +1,5 @@
 
-# subenum
+# subenum - FASTEST SUBDOMAIN ENUMERATOR EVER!🔴
 
 
 <p align="center">
@@ -22,25 +22,26 @@ Subenum is a subdomain enumeration tool that uses a variety of techniques to fin
 
 
 
-
-
-
-
-# subenum
-This tool is a subdomain enumerator . Thanks for using!. ;)
-
-
-
-To use this tool -
-      open your terminal and type -$git clone https://github.com/alexbieber/subenum.git
-       and then after getting cloned -$python3 subdomenum.py xyz.com
+## BUY ME A COFFEE - LOVE YOU 3000! - THANK YOU !
        
        
    <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
-# subenum 
-  A superfast subdomain enumerator !
+### Installation
+
+- Just, Clone this repository -
+```
+$ git clone https://github.com/alexbieber/subenum.git
+```
+
+- Change to cloned directory and run `subdomenum.py` -
+```
+$ cd subenum
+$ python3 subdomenum.py example.com
+```
+
+- On first launch, It'll install the dependencies and that's it. `subenum` is installed.
   
 ## Disclaimer
   This tool is for educational purposes only !
