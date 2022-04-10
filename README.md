@@ -54,7 +54,7 @@ To use this tool -
    '''
    & Run it by--->> 
    '''
-   python3 subdomenum.py xyz.com (In root permission)
+   python3 subdomenum.py xyz.com  (run the command In root permission)
    '''
    
    Enjoy ✔🔴😄
