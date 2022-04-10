@@ -50,7 +50,7 @@ $ python3 subdomenum.py example.com
 ## Usage
   
    '''
-   Run it in--->> Root permission! (Type sudo su in your terminal ! put your password and your'e ready to use)
+   Run it in--->> Root permission! (If you dunno what's this root permission and how to use it--->Type sudo su in your terminal ! put your password and your'e ready to use)
    '''
    
    ##
