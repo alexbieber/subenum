@@ -4,6 +4,15 @@
 
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
+  
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/SocioPhish?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/SocioPhish?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/SocioPhish?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/SocioPhish?color=teal&style=for-the-badge">
+</p>
 </p>
 <p align="left">
   <a href="https://github.com/alexbieber/subenum/tree/master/subenum/modules">
