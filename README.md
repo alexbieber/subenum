@@ -59,7 +59,7 @@ $ python3 subdomenum.py example.com
 :: Workflow ::
 </h3>
 <p align="center">
-<img src="https://nichaz1.dream.press/wp-content/uploads/2020/12/term.gif"/>
+<img src="https://64.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif"/>
 </p>
  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
@@ -79,3 +79,4 @@ $ python3 subdomenum.py example.com
               🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
               🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
                                                                               
+# THANKS FOR USING! LOVE YOU 3000!🔴🔴🔴🔴✔
