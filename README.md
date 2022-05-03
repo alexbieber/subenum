@@ -72,7 +72,9 @@ $ python3 subdomenum.py example.com
 # Donate your money and it will inspire soo many people to live their life.
 
  ## THANKS!  
-   Enjoy ✔🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+   Enjoy ✔
+ ## 
+          🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
               🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
               🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
               🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
