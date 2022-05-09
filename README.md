@@ -47,6 +47,8 @@ $ git clone https://github.com/alexbieber/subenum.git
 - Change to cloned directory and run `subdomenum.py` -
 ```
 $ cd subenum
+```
+```
 $ python3 subdomenum.py example.com
 ```
 
